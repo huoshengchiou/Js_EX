@@ -31,3 +31,7 @@ export const printName = (user) => {
 export const printAge = (user) => {
   console.log(`Userage:${user.age}`);
 };
+
+// export default () => {
+//   console.log("匿名函式");
+// };
