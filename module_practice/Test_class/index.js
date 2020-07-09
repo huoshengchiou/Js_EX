@@ -81,3 +81,6 @@ Object.setPrototypeOf(E, D);
 
 D.foo();
 E.foo();
+
+
+
